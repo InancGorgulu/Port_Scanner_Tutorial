@@ -6,8 +6,6 @@ This project is designed as a **tutorial** for those who want to learn how to wo
 
 > ⚠️ **Note:** This implementation is intended for **localhost (127.0.0.1)** use only. It is not designed or tested for scanning external IP addresses or remote hosts.
 
----
-
 ## 📌 Overview
 
 This repository provides a step-by-step implementation of a **basic TCP port scanner** that:
