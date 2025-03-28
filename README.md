@@ -1,6 +1,6 @@
 # Port Scanner Tutorial
 
-🔍 **Port Scanner Tutorial** is a beginner-friendly TCP port scanner built with **C++**. It uses the **Winsock API** to check whether specified ports on a given IP address are open or closed.
+Port Scanner Tutorial is a beginner-friendly TCP port scanner built with **C++**. It uses the **Winsock API** to check whether specified ports on a given IP address are open or closed.
 
 This project is designed as a **tutorial** for those who want to learn how to work with sockets, handle port ranges, and implement network scanning logic in C++.
 
@@ -28,8 +28,6 @@ Before compiling or running this project, make sure you have the following:
 - ✅ **Windows operating system** (required for Winsock)
 - ✅ **C++ compiler** (MSVC, MinGW, or Clang with Windows support)
 - ✅ **Basic understanding of networking concepts** (IP addresses, TCP ports)
-
----
 
 ## 📝 Notes
 
