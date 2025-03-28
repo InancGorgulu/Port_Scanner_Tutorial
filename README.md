@@ -45,7 +45,8 @@ This project is licensed under the **MIT License** – feel free to use, modify,
 
 ## 📬 Contact
 
-If you have questions, suggestions, or want to contribute, feel free to **open an issue** or **submit a pull request**.
+For questions or further assistance, feel free to open an issue on GitHub or contact with me.
+
 
 
 
